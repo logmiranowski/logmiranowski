@@ -15,7 +15,7 @@
 - Cybersecurity Applications, Cisco CCNA I/Networking I, Microcomputer Applications and Literacy. Most recently, during my first year
 - at Fort Hays University, I was introduced to C++. Due to this language being new to me, I am not as confident in my abilities,
 - in comparison to my Python abilities. Before this past Fall, I had not revisited web development. Fortunately, I was able to
-- enroll in an introductory course, where I produced my blog: [Mundane Miranowski](lamiranowski.infprojects.fhsu.edu/Mundane/). This was a daily blog, detailing my academic progress,
+- enroll in an introductory course, where I produced my blog: [Mundane Miranowski](https://lamiranowski.infprojects.fhsu.edu/Mundane/). This was a daily blog, detailing my academic progress,
 - as well as providing a daily joke.
 
  
